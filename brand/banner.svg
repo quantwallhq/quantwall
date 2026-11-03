@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1440" viewBox="0 0 2560 1440">
+<rect width="2560" height="1440" fill="#0D1117"/>
+<!-- safe area for all devices: centre 1235x338 -->
+<text x="1280" y="680" text-anchor="middle" font-family="Menlo, DejaVu Sans Mono, monospace" font-weight="700" font-size="150"><tspan fill="#FFFFFF">Quant</tspan><tspan fill="#F85149">Wall</tspan></text>
+<text x="1280" y="770" text-anchor="middle" font-family="Menlo, DejaVu Sans Mono, monospace" font-size="44" fill="#8B949E" letter-spacing="8">NO BLACK BOXES · NO HYPE</text>
+</svg>

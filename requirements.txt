@@ -1,0 +1,2 @@
+# Libraries imported by the notebooks. Pin versions in your own environment.
+numpy

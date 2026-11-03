@@ -1,0 +1,12 @@
+{
+  "background": "#0D1117",
+  "panel": "#161B22",
+  "border": "#30363D",
+  "foreground": "#E6EDF3",
+  "muted": "#8B949E",
+  "blue_subject": "#58A6FF",
+  "green_passes": "#3FB950",
+  "red_fails_and_wordmark_wall": "#F85149",
+  "amber_highlight": "#D29922",
+  "purple_secondary": "#BC8CFF"
+}
