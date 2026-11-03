@@ -1,0 +1,35 @@
+name: publish-notebooks
+
+# Publishes each notebook at the moment its video goes public (see publish/schedule.json in the
+# private staging repo). Runs every hour and is idempotent: a run with nothing due changes nothing.
+# A delayed or skipped run only means a notebook appears a little late, never early.
+on:
+  schedule:
+    - cron: "10 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the public repo
+        uses: actions/checkout@v4
+        with:
+          path: public
+
+      - name: Check out the private staging repo (read-only deploy key)
+        uses: actions/checkout@v4
+        with:
+          repository: quantwallhq/quantwall-staging
+          ssh-key: ${{ secrets.STAGING_DEPLOY_KEY }}
+          path: staging
+
+      - name: Rebuild the public tree and push anything newly due
+        run: python3 staging/scripts/publish.py --out public --push
