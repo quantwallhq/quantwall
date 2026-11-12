@@ -37,6 +37,14 @@ What we look for, how we test, and what this channel will never do.
 | [`04_why_trust_this_channel`](notebooks/introduction/04_why_trust_this_channel.ipynb) | [I Made a "Perfect" Trading Channel From Pure Noise](https://youtu.be/eg9IdHXK5oU) | 2026-11-06 |
 | [`05_the_map`](notebooks/introduction/05_the_map.ipynb) | [Two Backtests, Both Wrong: What Happens Before (and After) the Test](https://youtu.be/kfYqeTbW9ho) | 2026-11-10 |
 
+### AI
+
+What happens when an AI helps you test an idea.
+
+| Notebook | Video | Published |
+|---|---|---|
+| [`57_ai_desk_on_noise`](notebooks/ai/57_ai_desk_on_noise.ipynb) | [We Fed a Viral "AI Trading Desk" Fake Markets. It Approved 42 Trades.](https://youtu.be/cr0yMdmxPV0) | 2026-11-12 |
+
 ## Repository layout
 
 | Path | What it is |
