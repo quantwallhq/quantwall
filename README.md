@@ -26,6 +26,14 @@ jupyter lab
 
 ## Index
 
+### Start here
+
+Short videos for the words the channel uses all the time.
+
+| Notebook | Video | Published |
+|---|---|---|
+| [`s1_what_a_backtest_is`](notebooks/start-here/s1_what_a_backtest_is.ipynb) | [228 Trades, 228 Winners. What a Backtest Really Is](https://youtu.be/_XfqFv38_Co) | 2026-11-13 |
+
 ### Introduction
 
 What we look for, how we test, and what this channel will never do.
