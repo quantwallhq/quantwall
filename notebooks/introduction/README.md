@@ -8,5 +8,6 @@ What we look for, how we test, and what this channel will never do.
 | [`03_why_systematic.ipynb`](03_why_systematic.ipynb) | [Why I Test Trading Ideas With Rules, Not Charts](https://youtu.be/jBQ1JV3Vjy0) | 2026-11-03 |
 | [`04_why_trust_this_channel.ipynb`](04_why_trust_this_channel.ipynb) | [I Made a "Perfect" Trading Channel From Pure Noise](https://youtu.be/eg9IdHXK5oU) | 2026-11-06 |
 | [`05_the_map.ipynb`](05_the_map.ipynb) | [Two Backtests, Both Wrong: What Happens Before (and After) the Test](https://youtu.be/kfYqeTbW9ho) | 2026-11-10 |
+| [`06_what_you_need.ipynb`](06_what_you_need.ipynb) | [Can You Actually Do Quant Research at Home? Yes, on Your Laptop](https://youtu.be/TfJM1O7dVSY) | 2026-11-17 |
 
 Every notebook uses seeded, synthetic data. Nothing here is financial advice: see [DISCLAIMER](../../DISCLAIMER.md).
