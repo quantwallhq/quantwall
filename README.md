@@ -46,6 +46,14 @@ What we look for, how we test, and what this channel will never do.
 | [`05_the_map`](notebooks/introduction/05_the_map.ipynb) | [Two Backtests, Both Wrong: What Happens Before (and After) the Test](https://youtu.be/kfYqeTbW9ho) | 2026-11-10 |
 | [`06_what_you_need`](notebooks/introduction/06_what_you_need.ipynb) | [Can You Actually Do Quant Research at Home? Yes, on Your Laptop](https://youtu.be/TfJM1O7dVSY) | 2026-11-17 |
 
+### Data
+
+Can you trust the numbers underneath a backtest?
+
+| Notebook | Video | Published |
+|---|---|---|
+| [`10_can_i_trust_this_data`](notebooks/data/10_can_i_trust_this_data.ipynb) | [This Backtest Made 6% a Year on Fake Companies (Survivorship Bias)](https://youtu.be/481hrQRRyKc) | 2026-11-20 |
+
 ### AI
 
 What happens when an AI helps you test an idea.
