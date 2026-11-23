@@ -54,6 +54,14 @@ Can you trust the numbers underneath a backtest?
 |---|---|---|
 | [`10_can_i_trust_this_data`](notebooks/data/10_can_i_trust_this_data.ipynb) | [This Backtest Made 6% a Year on Fake Companies (Survivorship Bias)](https://youtu.be/481hrQRRyKc) | 2026-11-20 |
 
+### The wall
+
+A process that says no before you see a result.
+
+| Notebook | Video | Published |
+|---|---|---|
+| [`21_what_the_wall_is`](notebooks/the-wall/21_what_the_wall_is.ipynb) | [57% to 8%: The One Change That Made Results Honest](https://youtu.be/fQRGBChQ4ww) | 2026-11-24 |
+
 ### AI
 
 What happens when an AI helps you test an idea.
