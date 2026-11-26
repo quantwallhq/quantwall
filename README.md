@@ -61,6 +61,7 @@ A process that says no before you see a result.
 | Notebook | Video | Published |
 |---|---|---|
 | [`21_what_the_wall_is`](notebooks/the-wall/21_what_the_wall_is.ipynb) | [57% to 8%: The One Change That Made Results Honest](https://youtu.be/fQRGBChQ4ww) | 2026-11-24 |
+| [`22_the_traps`](notebooks/the-wall/22_the_traps.ipynb) | [Same Data, 29 Teams, 29 Answers: How Smart People Fool Themselves](https://youtu.be/_I9Ncoak48Q) | 2026-11-27 |
 
 ### AI
 
